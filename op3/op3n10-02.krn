@@ -1,3 +1,4 @@
+!!!!SEGMENT: op3n10-02.krn
 !!!COM: Corelli, Arcangelo
 !!!OTL: 
 !!!ONM: Opus 3, No. 10
@@ -5,7 +6,7 @@
 !!!CDT: 1653/2/17/-1713/1/8/
 !!!OCY: Italia
 **kern	**kern	**kern	**kern
-*clefC	*clefC	*clefG	*clefG
+*clefC3	*clefC3	*clefG2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *a:	*a:	*a:	*a:
 *M4/4	*M4/4	*M4/4	*M4/4

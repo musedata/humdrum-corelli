@@ -1,3 +1,4 @@
+!!!!SEGMENT: op3n9-01.krn
 !!!COM: Corelli, Arcangelo
 !!!OTL: 
 !!!ONM: Opus 3, No. 9
@@ -5,7 +6,7 @@
 !!!CDT: 1653/2/17/-1713/1/8/
 !!!OCY: Italia
 **kern	**kern	**kern	**kern
-*clefC	*clefC	*clefG	*clefG
+*clefC3	*clefC3	*clefG2	*clefG2
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
 *B-:	*B-:	*B-:	*B-:
 *M3/2	*M3/2	*M3/2	*M3/2
